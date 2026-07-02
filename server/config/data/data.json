@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Vegas Graduation Blowout",
+    "description": "A high-energy weekend in Las Vegas celebrating graduation with fountains, shows, and casino nights.",
+    "img_url": "https://images.unsplash.com/photo-1581351721010-8cf859cb14a4",
+    "num_days": 4,
+    "start_date": "2026-08-14",
+    "end_date": "2026-08-18",
+    "total_cost": 1800.00
+  },
+  {
+    "title": "Pacific Coast Road Trip",
+    "description": "Driving Highway 1 from San Francisco to Los Angeles, stopping at beaches and small towns along the way.",
+    "img_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "num_days": 6,
+    "start_date": "2026-09-01",
+    "end_date": "2026-09-07",
+    "total_cost": 2400.50
+  },
+  {
+    "title": "NYC Bachelor Party",
+    "description": "A weekend in New York City packed with rooftop bars, Broadway shows, and late-night food tours.",
+    "img_url": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9",
+    "num_days": 3,
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-12",
+    "total_cost": 1500.00
+  },
+  {
+    "title": "Miami Spring Break",
+    "description": "Sun, sand, and nightlife on South Beach with friends.",
+    "img_url": "https://images.unsplash.com/photo-1506966953602-c20cc11f75e3",
+    "num_days": 5,
+    "start_date": "2027-03-05",
+    "end_date": "2027-03-10",
+    "total_cost": 2100.75
+  },
+  {
+    "title": "Colorado Mountain Escape",
+    "description": "A cabin retreat in the Rockies with hiking, hot springs, and stargazing.",
+    "img_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "num_days": 5,
+    "start_date": "2026-11-20",
+    "end_date": "2026-11-25",
+    "total_cost": 1950.00
+  }
+]
